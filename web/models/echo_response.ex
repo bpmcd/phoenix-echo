@@ -1,0 +1,3 @@
+defmodule EchoResponse do
+
+end
